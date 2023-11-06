@@ -1,6 +1,7 @@
 Proposal based treasury management.
 
-Visual:
-	[[unLearn Diagram v0.1|unLearn Diagram v0.1]]
+It consists of the [[Treasury|Treasury]] and the [[Governance Aggregator|Governance Aggregator]] validators.
 
-It consists of the [[Treasury|Treasury]] and the [[Governance Aggregator|Governance Aggregator]]
+	![[unLearn Diagram v0.1.png]]
+
+

@@ -1,6 +1,3 @@
----
-share: true
----
 Proposal based treasury management.
 
 Visual:

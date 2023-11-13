@@ -1,4 +1,4 @@
-In the [[genesis tx|genesis tx]], a specific UTXI is used to create an [[unLearn|unLearn]] instance. After the utxo is spent, no other similar utxo can exist. Ensuring the uniqueness of the [[unLearn|unLearn]] instance.
+In the [[genesis tx|genesis tx]], a specific UTXO is used to create an [[unLearn|unLearn]] instance. After the utxo is spent, no other similar utxo can exist. Ensuring the uniqueness of the [[unLearn|unLearn]] instance.
 
 In this transaction the [[unArxh|unArxh]] and [[members|members]] NFTs are minted.
 
@@ -11,3 +11,5 @@ The datum of [[unArxh|unArxh]] is initialized, for this [[unLearn|unLearn]] inst
 	The address of the connected [[Governance Aggregator|Governance Aggregator]] is provided by the creator of this [[unLearn|unLearn]] instance.
 
 The datum of [[members|members]] is initialized, with a user provided list of addresses.
+
+The redeemer needs to have the [[Genesis|Genesis]] [[Action|Action]] 

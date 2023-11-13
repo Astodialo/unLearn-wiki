@@ -12,3 +12,5 @@ There are  3 NFTs minted. [[proposal_x|proposal_x]], [[proposal_x_R|proposal_x_R
 [[proposal_x_R|proposal_x_R]] is locked in the [[Governance Aggregator|Governance Aggregator]] address stated in the [[unArxh|unArxh]] NFT's datum.
 
 [[proposal_x_Claim|proposal_x_Claim]] is sent to the proposer.
+
+The redeemer needs to have the [[Mintin|Mintin]] [[Action|Action]]

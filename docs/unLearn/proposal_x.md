@@ -3,9 +3,9 @@ An NFT that is minted during the [[proposal creation tx|proposal creation tx]], 
 It is locked in the [[Treasury|Treasury]].
 
 The datum of the NFT contains information about the proposal:
-	Proposal
-	State
-	Amount
+	[[Proposal|Proposal]]
+	[[State|State]]
+	[[Amount|Amount]]
 
 The Proposal and the Amount are user inputs and are submitted when minting the NFT. The State is initially set to INIT.
 

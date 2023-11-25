@@ -1,7 +1,7 @@
 The [[Treasury|Treasury]] validator is responsible for the genesis of an [[unLearn|unLearn]] instance. The proposal minting process, the proposal update and claiming from the treasury.
 
 It can validate 4 [[Action|Action]]:
-	[[Genesis|Genesis]]
+	[[Arxh|Arxh]]
 	[[Mintin|Mintin]]
 	[[Update|Update]]
 	[[Withdraw|Withdraw]]

@@ -12,4 +12,4 @@ The datum of [[unArxh|unArxh]] is initialized, for this [[unLearn|unLearn]] inst
 
 The datum of [[members|members]] is initialized, with a user provided list of addresses.
 
-The redeemer needs to have the [[Genesis|Genesis]] [[Action|Action]] 
+The redeemer needs to have the [[Arxh|Arxh]] [[Action|Action]] 

@@ -10373,8 +10373,8 @@ State updated ^nUPhMh4m
 		},
 		{
 			"type": "arrow",
-			"version": 2530,
-			"versionNonce": 164478315,
+			"version": 2556,
+			"versionNonce": 142843275,
 			"isDeleted": false,
 			"id": "lRskDANv7SV0MHEI0PN2z",
 			"fillStyle": "solid",
@@ -10396,7 +10396,7 @@ State updated ^nUPhMh4m
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699890845567,
+			"updated": 1699902770976,
 			"link": null,
 			"locked": false,
 			"startBinding": {

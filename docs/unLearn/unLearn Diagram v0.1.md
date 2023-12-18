@@ -15,7 +15,7 @@ proposer ^4S3T3j9w
 
 [[proposal_x_R|proposal_x_R]] ^Y3qUwPdA
 
-[[Governance Aggregator|Governance Aggregator]] 
+[[Consensus|Consensus]] 
  ^A8SHUwU1
 
 [[members|members]] ^05o2cEXl
@@ -79,7 +79,7 @@ proposer ^tWb7VsWb
 
 [[proposal_x_R|proposal_x_R]] ^TAvtCpK4
 
-%%***>>>text element-link:[[Governance Aggregator|Governance Aggregator]]<<<***%%Guild Multisig ^CVtGjAN6
+%%***>>>text element-link:[[Consensus|Consensus]]<<<***%%Guild Multisig ^CVtGjAN6
 
 [[Treasury|Treasury]] ^uG0Oj1Nq
 
@@ -122,7 +122,7 @@ proposer ^y18t4n86
 
 [[proposal_x_R|proposal_x_R]] ^TqAueKR2
 
-%%***>>>text element-link:[[Governance Aggregator|Governance Aggregator]]<<<***%%Guild Multisig ^PuZbm4pC
+%%***>>>text element-link:[[Consensus|Consensus]]<<<***%%Guild Multisig ^PuZbm4pC
 
 [[Treasury|Treasury]] ^fuoVXojL
 
@@ -163,7 +163,7 @@ proposer ^uj8wD7yJ
 
 [[proposal_x_R|proposal_x_R]] ^jQMxcT1p
 
-%%***>>>text element-link:[[Governance Aggregator|Governance Aggregator]]<<<***%%Guild Multisig ^T5iplpoW
+%%***>>>text element-link:[[Consensus|Consensus]]<<<***%%Guild Multisig ^T5iplpoW
 
 [[Treasury|Treasury]] ^NEBN5C7T
 
@@ -204,7 +204,7 @@ proposer ^K9CUbrxS
 
 [[proposal_x_R|proposal_x_R]] ^MnUdosKO
 
-%%***>>>text element-link:[[Governance Aggregator|Governance Aggregator]]<<<***%%Og weigthed 
+%%***>>>text element-link:[[Consensus|Consensus]]<<<***%%Og weigthed 
 voting scirpt ^2zXIRJ5l
 
 [[Treasury|Treasury]] ^zbp12Iel
@@ -246,7 +246,7 @@ proposer ^sKEUuuR0
 
 [[proposal_x_R|proposal_x_R]] ^u2O3Rhwv
 
-%%***>>>text element-link:[[Governance Aggregator|Governance Aggregator]]<<<***%%Discatalyst 
+%%***>>>text element-link:[[Consensus|Consensus]]<<<***%%Discatalyst 
 Multisig ^Q46eiGjQ
 
 [[Treasury|Treasury]] ^QxAp49Ux
@@ -288,7 +288,7 @@ proposer ^KNUKYdnn
 
 [[proposal_x_R|proposal_x_R]] ^h2ha72iB
 
-%%***>>>text element-link:[[Governance Aggregator|Governance Aggregator]]<<<***%%unLearn
+%%***>>>text element-link:[[Consensus|Consensus]]<<<***%%unLearn
 Multisig ^4uQnSVk7
 
 [[Treasury|Treasury]] ^LQ8o10AH
@@ -330,7 +330,7 @@ proposer ^12M6wQTa
 
 [[proposal_x_R|proposal_x_R]] ^NIG48VJk
 
-[[Governance Aggregator|Governance Aggregator]] 
+[[Consensus|Consensus]] 
  ^nJeX2VaL
 
 [[members|members]] ^DEiYP1QS

@@ -1,1 +1,1 @@
-previously Genesis
+[[Apxn|Apxn]] is used as the redeemer, in the [[./genesis tx|genesis tx]].

@@ -1,0 +1,1 @@
+[[Mintin|Mintin]] is used as the redeemer, in the [[./proposal creation tx|proposal creation tx]].

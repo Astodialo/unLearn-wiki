@@ -1,0 +1,1 @@
+[[Withdraw|Withdraw]] is used as the redeemer, in the [[./withdrawal tx|withdrawal tx]].

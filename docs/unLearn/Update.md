@@ -1,0 +1,1 @@
+[[Update|Update]] is used as the redeemer, in the [[./results update tx|results update tx]].
